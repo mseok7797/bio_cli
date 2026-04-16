@@ -78,10 +78,10 @@ bio ask "단백질 섭취와 수면 회복의 기본 원칙을 요약해줘"
 
 ## Commands
 
-- `bio doctor`: validate environment and data directory
-- `bio ingest`: load PDFs and build the FAISS index
-- `bio query "질문"`: inspect retrieved chunks only
-- `bio ask "질문"`: run the LangGraph workflow and return a Korean answer
+- `bio doctor`: validate environment variables and the sample PDF directory
+- `bio ingest`: load PDFs and build the FAISS vector index
+- `bio query`: inspect retrieved document chunks
+- `bio ask`: run the full agent workflow and return a Korean answer
 
 ## Sample PDFs
 
