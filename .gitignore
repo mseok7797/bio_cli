@@ -1,0 +1,8 @@
+.env
+.pytest_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+data/vectorstore/
+docs/*
+!docs/README.md
