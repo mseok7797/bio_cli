@@ -36,10 +36,3 @@ Use text-selectable PDFs first. Scanned PDFs typically need OCR and will degrade
 ## Safety policy
 
 Every final answer includes a short reminder that the response is informational and not medical diagnosis or treatment advice.
-
-## Additional documents
-
-- `docs/README_INTRO.md`: short intro text for README reuse
-- `docs/PORTFOLIO_SUMMARY.md`: condensed portfolio summary
-- `docs/PROJECT_REPORT_FULL.md`: full project report
-- `docs/FLOW_AND_ARCHITECTURE.md`: flow and architecture guide with Mermaid diagrams
