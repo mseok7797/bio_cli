@@ -20,8 +20,8 @@
 
 - `bio doctor`: validate environment and data directory
 - `bio ingest`: load PDFs and build the FAISS index
-- `bio query "질문"`: inspect retrieved chunks only
-- `bio ask "질문"`: run the LangGraph workflow and return a Korean answer
+- `bio query `: inspect retrieved chunks only
+- `bio ask `: run the LangGraph workflow and return a Korean answer
 
 ## Sample PDFs
 
