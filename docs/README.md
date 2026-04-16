@@ -1,13 +1,11 @@
 # docs
 
-이 폴더는 `bio-cli` 프로젝트의 문서 보관용 디렉터리다.
+This folder serves as the documentation repository for the `bio-cli` project.
 
-Git에는 이 `README.md`만 포함하고, 나머지 문서는 로컬 참고 자료로 유지한다.
+Only this `README.md` file is included in Git; the remaining documents are kept as local reference materials.
 
-현재 로컬 문서 예시는 다음과 같다.
-
-- 포트폴리오 요약
-- 상세 프로젝트 보고서
-- 실행 흐름 및 아키텍처 정리
-- 상세 설명 문서
-- README 소개 문구 초안
+Current examples of local documentation include the following:
+- Detailed project report
+- Overview of the workflow and architecture
+- Detailed explanatory documents
+- Draft introductory text for the README
